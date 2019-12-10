@@ -1,5 +1,7 @@
 import java.util.*; 
-
+import q14;
+import q15;
+import q16;
 public class GFG 
 { 
 	public static void main(String[] args) 
